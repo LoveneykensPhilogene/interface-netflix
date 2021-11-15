@@ -7,6 +7,7 @@
 <p>Recriando a interface do Netflix.</p>
 </div>
 <div>
+<p>Tecnologias utilizadas</p>
 <ul>
 <li><a href="https://www.w3schools.com/TAGS/default.ASP">HTML5</a></li>
 <li><a href="https://www.w3schools.com/css/">CSS3</a></li>
